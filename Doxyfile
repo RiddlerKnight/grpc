@@ -1,5 +1,7 @@
-PROJECT_NAME = "GRPC"
-INPUT = "./src"
-OUTPUT_DIRECTORY = "out"
-GENERATE_HTML = "YES"
-GENERATE_LATEX = "NO"
+PROJECT_NAME        = "GRPC"
+INPUT               = "./src"
+OUTPUT_DIRECTORY    = "out"
+GENERATE_HTML       = "YES"
+GENERATE_LATEX      = "NO"
+RECURSIVE           = YES
+FILE_PATTERNS       = *
